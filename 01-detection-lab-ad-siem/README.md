@@ -1,4 +1,4 @@
-# Project 1 — Detection Lab: Active Directory + SIEM (Purple Team)
+# Project 1: Detection Lab: Active Directory + SIEM (Purple Team)
 
 **Target roles:** SOC Analyst, Blue Team, Detection Engineer, IAM Support
 **Frameworks:** MITRE ATT&CK, Sigma detection rules, NIST SP 800-92 (log management)
